@@ -1,0 +1,8 @@
+body{font-family:Tajawal;background:#0f172a;color:white;margin:0;padding:20px}
+h1{text-align:center;color:#0d9488}
+#search{width:100%;padding:12px;border-radius:8px;border:none;margin-bottom:20px}
+#surahs{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.surah{background:#1e293b;padding:15px;border-radius:12px;cursor:pointer}
+.surah:hover{background:#0d9488}
+#ayah{margin-top:30px;font-size:26px;line-height:2.2;text-align:center}
+audio{width:100%;margin-top:20px}
